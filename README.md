@@ -9,6 +9,8 @@
 
 Download zip file or clone it and then just go to src file and select index.html to see it.
 
+# Live demo- https://traveluxery.herokuapp.com/
+
 # ScreenShot
 ![travel ](https://user-images.githubusercontent.com/39465843/128376711-0489b2f2-04a3-4d00-8c65-5a781af4025b.png)
 ![travel 2](https://user-images.githubusercontent.com/39465843/128376719-4e3bb185-b4a7-48f9-b742-3f203bfdf603.png)
