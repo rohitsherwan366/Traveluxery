@@ -7,7 +7,7 @@
 - Includes a dark and light mode.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Download zip file or clone it and then just go to src file and select index.html to see it.
+Download zip file or clone it and then just select index.html to see it.
 
 # Live demo
 - https://traveluxery.herokuapp.com/
