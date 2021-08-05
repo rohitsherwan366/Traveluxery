@@ -1,9 +1,13 @@
 #  Traveluxery
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
+- Lazy loading images and icon sprites for faster page load time
+- Responsive images for resolution switching to save bandwidth
 - Contains animations when scrolling.
 - Includes a dark and light mode.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+Download zip file or clone it and then just go to src file and select index.html to see it.
 
 # ScreenShot
 ![travel ](https://user-images.githubusercontent.com/39465843/128376711-0489b2f2-04a3-4d00-8c65-5a781af4025b.png)
